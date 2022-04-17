@@ -1,6 +1,6 @@
 <div align="center" ><img width="350px" src="https://rishavanand.github.io/static/images/greetings.gif" alt="resim" /></div>
 
-<h2 align="center">Hi 👋, I'm Yasar Arslan</h2>
+<h2 align="center">I'm Yasar Arslan</h2>
 <h4 align="center">A life dedicated to the Full Stack</h4>
 
 - 🌱 I’m currently learning **more deeply full stack development from various source.**
