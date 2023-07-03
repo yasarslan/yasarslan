@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more deeply about front-end development from various sources.**
 
-- 👨‍💻 All of my projects are available at(loading) <a href="https://www.yasararslan.com">sasararslan.com</a>
+- 👨‍💻 All of my projects are available at(loading) <a href="https://www.yasararslan.com">yasararslan.com</a>
 
 
 - 📫 How to reach me **yasar.arsln@hotmail.com**
